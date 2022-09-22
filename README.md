@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @danimdev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi my name is Daniel Miller and im currently 25 years old
+- In my freetime i like to play video games or watch tv shows
+- If its about Work and Programming im always eager to Learn new Techniques new Methods or new Principles
+
+My Favorite Technologies are at the moment:
+C#, WPF, XAML,EF Core
+
+as well some Experience in HTML,CSS and ASP.NET
 
 <!---
 danimdev/danimdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
