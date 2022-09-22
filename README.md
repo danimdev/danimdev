@@ -3,9 +3,9 @@
 - If its about Work and Programming im always eager to Learn new Techniques new Methods or new Principles
 
 My Favorite Technologies are at the moment:
-C#, WPF, XAML,EF Core
 
-as well some Experience in HTML,CSS and ASP.NET
+- C#, WPF, XAML,EF Core
+- as well some Experience in HTML,CSS and ASP.NET
 
 <!---
 danimdev/danimdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
