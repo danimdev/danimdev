@@ -7,7 +7,7 @@ My Profile:
 My Favorite Technologies are at the moment:
 
 - C#, WPF, XAML, EF Core
-- as well some Experience in HTML, CSS and ASP.NET
+- as well some Experience in HTML, CSS and Bootstrap
 
 <!---
 danimdev/danimdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
